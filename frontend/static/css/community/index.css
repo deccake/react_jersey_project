@@ -1,0 +1,5 @@
+@media screen and (max-width: 600px) {
+    .rl-cv {
+        flex-direction: column !important;
+    }
+}

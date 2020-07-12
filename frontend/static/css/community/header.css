@@ -1,0 +1,11 @@
+@media screen and (max-width: 736px) {
+    .navbar-light .navbar-toggler-icon {
+        background-image:url("../../images/open-menu-mv.svg") !important;
+    }
+    .rl-mv-gb {
+        background: transparent linear-gradient(180deg, #00C4FF 0%, #0072FF 100%) 0% 0% no-repeat padding-box;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: transparent !important;
+    }
+}
